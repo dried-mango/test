@@ -13,8 +13,11 @@
 
 
 ## Write-up
+
+```
 $cat contractors.txt | grep "^Robin .* Morris$"
->**Robin Almay Morris**
+Robin Almay Morris
+```
 
 ## Flag
 >Almay
